@@ -1,2 +1,4 @@
-# NERD_Library
-This repository is for storing any year-transcendent file, or other resources to be used between different seasons.
+# NERD Library
+Hello! 
+
+Welcome to NERD Library, where programs which are used between years can be stored and retrieved for any years team. 
